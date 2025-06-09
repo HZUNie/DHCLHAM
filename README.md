@@ -3,7 +3,7 @@
 
 ### Dataset ###
   * MDAD: MDAD database, created by Sun et al. in 2018, was assembled through the meticulous curation of experimentally and clinically validated microbe-drug interactions sourced from existing drug databases and scientific literature. It comprises 2,470 verified records of microbe-drug associations, involving 1,373 drugs and 173 microbes. The dataset can be accessed publicly at http://chengroup.cu-mt.edu.cn/MDAD.
-  * aBiofilm: aBiofilm is a database of anti-biofilm agents that catalogs 1,720 compounds targeting 140 microbial species. The database documents details for each anti-biofilm drug, including molecular structure, drug classification, antimicrobial potency, and citations.
+  * aBiofilm: aBiofilm is a database of anti-biofilm agents that catalogs 1,720 compounds targeting 140 microbial species. The database documents details for each anti-biofilm drug, including molecular structure, drug classification, antimicrobial potency, and citations.The dataset can be accessed publicly at https://drug-virus.info/.
   * DrugVirus: DrugVirus is a specialized database that records the activity of pharmaceuticals aimed at human viruses and their interactions. It is intended to enable the investigation and assessment of broad-spectrum antiviral drugs (BSAs), which are agents that suppress various human viruses, along with categories of drugs that include BSAs. The database can be accessed at https://drug-virus.info/.
 
 ### Data description ###
