@@ -12,6 +12,16 @@
 ### Run Step ###
   Run main.py to train the model and obtain the predicted scores for microbe-drug associations.
 
+### Hyperparameter and Experiment Settings ###
+K=13---The K value in the hypergraph is constructed using the KNN algorithm
+c=9---Construct the cluster center values in the hypergraph using the KO algorithm
+head=5---The head value in multi-head attention
+lr=0.0001---Learning rate
+epoch=400---Number of model trainings
+alpha=0.11---The size of alpha
+d=256---Embedding dimension
+
+
 
 ### Requirements ###
   - python==3.9.0
